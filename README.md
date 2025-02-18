@@ -1,5 +1,3 @@
-# MiniQuiz
-
 # Mini Quiz Program with Options
 
 def mini_quiz():
